@@ -1,0 +1,35 @@
+
+
+$primary-color: white;
+$secondary-color: #dadada;
+$accent-color: #B2AC88;
+
+.primary-color {color: $primary-color;}
+.secondary-color {color: $secondary-color;}
+.accent-color {color: $accent-color;}
+
+body {
+    background-color: rgb(20,20,20);
+    color: white;
+    margin: 0px;
+
+
+    .slider-text {
+        display: none;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        width: auto;
+    }
+
+    .slider-text.active {
+        display: flex;
+        animation: fadeIn 800ms;
+    }
+
+    
+
+}
+
+
+

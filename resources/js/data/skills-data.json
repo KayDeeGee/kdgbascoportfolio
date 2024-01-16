@@ -1,0 +1,33 @@
+[
+    {
+        "skillHeadline": "Frontend Development",
+        "skillList": ["HTML", "CSS", "Javascript", "React", "JQuery", "Figma"],
+        "skillDesc": "With proficiency in HTML, CSS, and JavaScript, coupled with advanced expertise in React and JQuery, I bring a well-rounded skill set to frontend development. \nMy ability to seamlessly translate design concepts into interactive and responsive user interfaces is further enhanced by my proficiency in utilizing Figma for design collaboration and implementation."
+    },
+    {
+        "skillHeadline": "Backend Development",
+        "skillList":  ["PHP", "MySQL", "Laravel", "Firebase"],
+        "skillDesc": "With a progressive proficiency in backend development, I am well-versed in PHP and MySQL, have hands-on experience with Laravel for robust web applications, and leverage Firebase for real-time database functionality, reflecting a comprehensive skill set in backend technologies."
+    },
+    {
+        "skillHeadline": "Mobile Development",
+        "skillList":  ["Java", "Kotlin", "XML"],
+        "skillDesc": "I possess expertise in Java and Kotlin, two versatile programming languages widely used for Android development, along with proficiency in XML, contributing to my capabilities in creating robust and efficient mobile applications."
+    },
+    {
+        "skillHeadline": "Desktop Development",
+        "skillList":  ["Java", "Python", "C"],
+        "skillDesc":
+        "Having gained proficiency in Java, Python, and C, my familiarity spans a spectrum of versatile programming languages. From Java's robust and platform-independent capabilities to Python's readability and diverse application domains, and C's efficiency and low-level control, my experience reflects a well-rounded understanding of these technologies."
+    },
+    {
+        "skillHeadline": "Soft Skills",
+        "skillList": ["Adaptability", "Problem Solving", "Creative", "Observant", "Teamwork"],
+        "skillDesc": "Possessing a blend of adaptability, problem-solving prowess, creativity, keen observation, and a collaborative spirit, I bring a dynamic set of skills to any project or team. My ability to seamlessly adjust to new challenges, think innovatively, and work effectively in a team environment reflects a holistic approach to achieving successful outcomes."
+    },
+    {
+        "skillHeadline": "Others",
+        "skillList": ["Git", "Basic Data Science", "UI/UX Design"],
+        "skillDesc": "Proficient in Git for effective version control, equipped with foundational skills in data science for insightful analysis, and possessing a keen understanding of UI/UX design principles, my diverse skill set extends across collaborative code management, data-driven decision-making, and creating user-centric digital experiences."
+    }
+]

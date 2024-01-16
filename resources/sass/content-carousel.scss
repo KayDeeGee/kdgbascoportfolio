@@ -1,0 +1,45 @@
+.content-carousel {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+
+    width: 100%;
+
+    .slider-text {
+        display: none;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        
+        width: 90%;
+        height: 100%;
+    }
+
+    .slider-text.active {
+        display: flex;
+        animation: fadeIn 800ms;
+    }
+
+    .btn-sliders {
+        position: absolute;
+        margin: 0;
+        padding: 0;
+        border: none;
+        background: none;
+        font: inherit;
+        font-size: 2rem;
+        color: white;
+        cursor: pointer;
+    }
+
+    .btn-prev {
+        animation: none;
+        left: 16px;
+    }
+
+    .btn-next {
+        right: 16px;
+    }
+}

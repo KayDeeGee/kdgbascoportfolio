@@ -1,0 +1,63 @@
+[
+    {
+      "name": "JavaScript",
+      "iconName": "devicon-javascript-plain"
+    },
+    {
+      "name": "Bootstrap",
+      "iconName": "devicon-bootstrap-plain"
+    },
+    {
+        "name": "HTML",
+        "iconName": "devicon-html5-plain"
+    },
+    {
+        "name": "CSS",
+        "iconName": "devicon-css3-plain"
+    },
+    {
+      "name": "SASS",
+      "iconName": "devicon-sass-plain"
+    },
+    {
+        "name": "PHP",
+        "iconName": "devicon-php-plain"
+    },
+    {
+      "name": "MySQL",
+      "iconName": "devicon-mysql-plain"
+    },
+    {
+      "name": "C",
+      "iconName": "devicon-c-plain"
+    },
+    {
+      "name": "React",
+      "iconName": "devicon-react-original"
+    },
+    {
+      "name": "Laravel",
+      "iconName": "devicon-laravel-plain"
+    },
+    {
+      "name": "Java",
+      "iconName": "devicon-java-plain"
+    },
+    {
+      "name": "Python",
+      "iconName": "devicon-python-plain"
+    },
+    {
+      "name": "Figma",
+      "iconName": "devicon-figma-plain"
+    },
+    {
+      "name": "jQuery",
+      "iconName": "devicon-jquery-plain"
+    }
+
+
+
+
+
+  ]
