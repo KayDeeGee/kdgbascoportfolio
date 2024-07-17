@@ -37,8 +37,6 @@ function AboutMe({ className }) {
                 </p>
             </div>
         </div>
-
-
     )
 }
 
